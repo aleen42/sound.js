@@ -1,5 +1,7 @@
 ## sound.js
 
+[![Join the chat at https://gitter.im/aleen42/sound.js](https://badges.gitter.im/aleen42/sound.js.svg)](https://gitter.im/aleen42/sound.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Pay](https://img.shields.io/badge/%24-free-%23a10000.svg)](#) [![GitHub issues](https://img.shields.io/github/issues/aleen42/sound.js.svg)](https://github.com/aleen42/sound.js/issues) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/aleen42/sound.js/master/LICENSE) [![Gitter](https://badges.gitter.im/aleen42/gitbook-treeview.svg)](https://gitter.im/aleen42/sound.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 A JavaScript project for using Web Audio API to do something awesome.
